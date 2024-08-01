@@ -1,2 +1,2 @@
 # ppc-recombination
-This repository contains code, data, and documentation for the CEPH 1463 pedigree analyses.
+Code and associated files used in analyses or recombination breakpoints. 
